@@ -1,0 +1,24 @@
+Sword-
+A generic longsword that appeared in your hand when you arrived in this strange place. What more do you want? It's a sword, not ornate or
+awe inspiring, but well engineered. The blade is balanced quite nicely, and what it lacks in reach, it makes up for in weight and finesse.
+
+Solearm-
+This massive spear of steel feels well worn, possibly by those who may have come before you, possibly by the inhabitants of this world.
+However, no other weapon your enemies wield bears a resemblance to it. In spite of its weathered appearance, the Solearm is still as lethal 
+as the day it was forged. While not as suitable for dealing with massive crowds, its reach alone allows more uses than one might initially
+think.
+
+Warhammer-
+This mass of steel and wood is stained with the blood of the many enemies it has felled, and more than a few of its masters. 
+A single swing will send foes reeling, if not outright obliterating them, but each swing requires considerable effort to make.
+
+Lancethrower-
+A hulking crossbow-like instrument of death, the Lancethrower sends metallic rods hundreds of feet in the blink of an eye and through
+practically any foe one might face. Unfortunately its great power impedes its rate of fire, forcing the wielder to carefully plan their
+shots, as a single miss may in fact claim them, as it has with so many before you.
+
+Repeating Rifle- 
+This highly advanced weapon seems almost out of place in this world, and for good reason, no other weapon encountered can launch such a 
+steady hail of death from its muzzel. The small metallic balls it launches will hardly scratch a foe's armor alone, but when spat forth
+from this deadly weapon, few will survive. To achieve its obscene rate of fire, much of its range has been sacrificed, forcing its 
+wielder to get closer to foes than with the Lancethrower.

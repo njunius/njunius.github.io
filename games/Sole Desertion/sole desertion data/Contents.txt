@@ -1,0 +1,9 @@
+Table of Contents
+
+This folder contains my second student game and associated files.
+
+1:
+	index.html
+		This is the actual game "executable." 
+
+2: 	The remaining files are simply data.

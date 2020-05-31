@@ -1,0 +1,13 @@
+This folder contains my second student game and it's required data. The game
+is written in Javascript, requiring a webpage. 
+
+1: 
+	sole desertion data
+		- The files required to run the game in a browser.
+2: 
+	index - Shortcut
+		- The link to the playable game.
+
+3:
+	Weapon Descriptions
+		- A planning document describing each weapon the player uses.
