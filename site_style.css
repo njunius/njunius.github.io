@@ -14,10 +14,11 @@ a:visited {
 }
 a:hover {
         color: #227373;
+        text-decoration: underline;
 }
 header, .section {
         margin: 0 auto;
-        max-width: 85ch;
+        max-width: 75ch;
         padding: 1ch;
         margin-bottom: 0;
 }
@@ -33,6 +34,9 @@ h1 a {
 }
 h1 a:visited{
         color: #000;
+}
+h1 a:hover{
+        text-decoration: none;
 }
 h2 {
         font-size: 27px;
@@ -58,11 +62,9 @@ nav h3 {
 }
 nav h3 a {
         color: #5d7474;
-        text-decoration: underline;
 }
 nav h3 a:visited{
         color: #5d7474;
-        text-decoration: underline;
 }
 nav h3 a:hover{
         color: #227373;
@@ -80,13 +82,15 @@ pic li {
 /* footer */
 footer {
         background: #000;
-        margin-top: 1.2em;
+        margin-top: 1em;
+        padding: 1.5ch;
 }
 footer a:visited {
         color: #5d7474;
 }
 footer a:hover {
         color: #baffe6;
+        text-decoration: none;
 }
 /* content */
 .card {
