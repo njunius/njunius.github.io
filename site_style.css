@@ -79,6 +79,12 @@ pic ul {
 pic li {
         maargin-bottom: 1em
 }
+
+pic img {
+        height: 100%;
+        width: 100%;
+        object-fit: contain;
+}
 /* footer */
 footer {
         background: #000;
@@ -107,4 +113,8 @@ footer a:hover {
         box-sizing: border-box;
         margin: 0;
         padding: 0;
+}
+.listimg {
+        max-width: 660px;
+        max-height: 371px;
 }
