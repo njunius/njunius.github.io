@@ -21,6 +21,10 @@ main {
         max-width: 80ch;
         padding: 1ch;
 }
+a {
+        color: #000;
+        text-decoration: none;
+}
 h2 {
         font-size: 17px;
         font-weight: bold;
