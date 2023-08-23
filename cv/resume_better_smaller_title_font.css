@@ -1,0 +1,102 @@
+body {
+        line-height: 1.5;
+        font-size: 14px;
+        font-family: "Noto Sans", sans-serif;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+header {
+        text-align: center;
+}
+header h1 {
+        font-size: 1.4em;
+        margin-bottom: 0;
+}
+header p {
+        margin: 0;
+}
+main {
+        margin: 0 auto;
+        max-width: 90ch;
+        padding: 1ch;
+}
+a {
+        color: #000;
+        text-decoration: none;
+}
+h2 {
+        font-size: 17px;
+        font-weight: bold;
+        margin-top: 0.75em;
+        margin-bottom: 0.75em;
+}
+h3 {
+        font-size: 15px;
+        font-weight: bold;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+}
+edusubh {
+        font-weight: bold;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+}
+section {
+        margin: 0;
+        padding: 0;
+}
+ul {
+        #list-style-type: none;
+        margin: 0;
+        padding: 0;
+}
+li {
+        margin-bottom: 0;
+}
+/* content */
+.dated-subsection {
+        position: relative;
+        margin-bottom: 0.25em;
+        width: 90%;
+        box-sizing: border-box;
+}
+.dated-one-line {
+        position: relative;
+        margin-bottom: 0.25em;
+        margin-left: 1.75em;
+        width: 90%;
+        box-sizing: border-box;
+}
+.dated-content {
+        margin-left: 1.75em;
+        margin-bottom: 0.75em;
+        padding: 0;
+        box-sizing: border-box;
+}
+.dated-subsection-date {
+        position: absolute;
+        top: 0;
+        right: 0;
+        text-align: right;
+        box-sizing: border-box;
+}
+.section {
+        margin-bottom: 1.3em;
+        margin-left: 1.75em;
+        box-sizing: border-box;
+}
+.subsection-title {
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 1.75em;
+        box-sizing: border-box;
+}
+.content {
+        margin-top: 0;
+        margin-bottom: 0.5em;
+        margin-left: 1.75em;
+        box-sizing: border-box;
+}
