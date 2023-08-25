@@ -116,6 +116,22 @@ footer {
         box-sizing: border-box;
         margin-bottom: 1.2em;
 }
+.card-image {
+        box-sizing: border-box;
+        margin-right: 2%;
+        width: 28%;
+        overflow: hidden;
+}
+.card-image img{
+        object-fit: contain;
+        width: 100%;
+}
+.card-text {
+    width: 70%;
+}
+.card-text-only{
+    width: 100%;
+}
 .title {
         font-weight: bold;
         box-sizing: border-box;
@@ -123,7 +139,10 @@ footer {
         padding: 0;
 }
 .info {
+        display: flex;
         box-sizing: border-box;
+        overflow-wrap: normal;
+        align-items: center;
         margin: 0;
         padding: 0;
 }
