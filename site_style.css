@@ -1,4 +1,9 @@
+html {
+        height: 100%;
+}
 body {
+        display: flex;
+        flex-direction: column;
         line-height: 1.5;
         font-size: 18px;
         font-family: "Fira Sans", "Noto Sans", "Arimo", "Gudea", "Overpass", "Ubuntu", "Oxygen", "Inter", "Roboto", sans-serif;
@@ -7,6 +12,9 @@ body {
 }
 header {
         background-color: #f2fdff;
+}
+main {
+        min-height: 90.8vh;
 }
 a {
         text-decoration: none;
