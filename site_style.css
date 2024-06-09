@@ -6,7 +6,7 @@ body {
         flex-direction: column;
         line-height: 1.5;
         font-size: 18px;
-        font-family: "Fira Sans", "Noto Sans", "Arimo", "Gudea", "Overpass", "Ubuntu", "Oxygen", "Inter", "Roboto", sans-serif;
+        font-family: "Fira Sans", "Oxygen", "Overpass", "Gudea", "Inter", "Roboto", sans-serif;
         margin: 0;
         padding: 0;
 }
